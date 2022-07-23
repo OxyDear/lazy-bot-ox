@@ -1,0 +1,7 @@
+discord
+youtube_dl
+datetime
+PIL
+discord_components
+io
+requests
